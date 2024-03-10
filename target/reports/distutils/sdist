@@ -1,7 +1,7 @@
 running clean
 'build\lib' does not exist -- can't clean it
 'build\bdist.win-amd64' does not exist -- can't clean it
-'build\scripts-3.9' does not exist -- can't clean it
+'build\scripts-3.12' does not exist -- can't clean it
 running sdist
 running egg_info
 creating devops_flask.egg-info
